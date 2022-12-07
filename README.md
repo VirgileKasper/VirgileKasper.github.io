@@ -1,7 +1,7 @@
 ---
 title: "Virgile Korsec resume"
 author: Virgile Korsec
-date: "`r Sys.Date()`"
+date: "2022-12-07"
 theme: jekyll-theme-minimal
 output:
   pagedown::html_resume:
